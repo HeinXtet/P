@@ -18,7 +18,7 @@ This is simple SharePreference Android Library written with Kotlin. This support
 
    ```Kotlin
    dependencies {
-   	       compile 'com.github.HeinXtet:DeevDialog:0.1.2'
+   	        implementation 'com.github.HeinXtet:P:1.0'
    	}
    ```
 
