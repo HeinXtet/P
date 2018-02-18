@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimplePref</string>
+    <string name="getallresult">getAllResult</string>
+</resources>
